@@ -1,0 +1,7 @@
+Initial Values UniqueVisitors:  39
+Initial Values IdentifiedContacts:  29
+----------Opening Store-----------------
+-------Identifying user on store-----------
+Initial Values UniqueVisitors:  39
+Initial Values IdentifiedContacts:  29
+Asserting before and after analytics value

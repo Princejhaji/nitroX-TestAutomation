@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "csrftoken",
+      "value": "B5GgetW9n8a73pwT8LqzbpEZveQnWsEN",
+      "domain": "sso.nitrocommerce.ai",
+      "path": "/",
+      "expires": 1811432379.419903,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionid",
+      "value": "yd5v7lyl4t5kjnm47g2jnoaozpynds6r",
+      "domain": "sso.nitrocommerce.ai",
+      "path": "/",
+      "expires": 1781192379.420435,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://x.nitrocommerce.ai",
+      "localStorage": [
+        {
+          "name": "bearer",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDY1OSwibmFtZSI6IlByaW5jZSBKaGEiLCJlbWFpbCI6InByaW5jZS5qQGdldG5pdHJvLmNvIiwidXNlcm5hbWUiOiJwcmluY2UuakBnZXRuaXRyby5jbyIsImlzX2FjdGl2ZSI6dHJ1ZSwiaXNfc3VwZXJ1c2VyIjpmYWxzZSwicGFzc3dvcmQiOiJwYmtkZjJfc2hhMjU2JDYwMDAwMCR4UVZoVzRja2Jad0tKRUxHanpyZ0FiJGpUcHVmN0FNSmNUalBmZGs4OWdlZGRjajNhUDhUSmc4bXJ4QVhHMEN3VUU9IiwiaXNfZW1haWxfdmVyaWZpZWQiOnRydWUsImlzX3Bob25lX3ZlcmlmaWVkIjpmYWxzZSwicGhvbmUiOiI4MDc2OTY5ODY3IiwidXNlcl90b2tlbiI6ImNHSnJaR1l5WDNOb1lUSTFOaVEyTURBd01EQWtlRkZXYUZjMFkydGlXbmRMU2tWTVIycDZjbWRCWWlScVZIQjFaamRCVFVwalZHcFFabVJyT0RsblpXUmtZMm96WVZBNFZFcG5PRzF5ZUVGWVJ6QkRkMVZGUFE9PSIsImlhdCI6MTc3OTk4Mjc4MC42MTAxNTYsImV4cCI6MTc4MjU3NDc4MC42MTAxNTZ9.AKNVW8sHfQb8Rz9_qxhwIPcw-1pf2Tni7o_CsWgu9fo"
+        }
+      ]
+    }
+  ]
+}

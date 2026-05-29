@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","31282","Complete Consent management case","","2026-05-29","broken","2026-05-29","","consent_mgt.test.js","",""
+"","3145","Login Test case","","2026-05-29","passed","2026-05-29","","login.test.js","",""
+"","19988","Dashboard Test","","2026-05-29","passed","2026-05-29","","dashboard.test.js","",""
+"","31135","Complete hiu_aiu test cases","","2026-05-29","broken","2026-05-29","","hiu_aiu.test.js","",""
