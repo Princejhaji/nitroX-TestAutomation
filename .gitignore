@@ -4,3 +4,5 @@ reports
 test-results
 playwright-report
 playwright/.auth/user.json
+allure-results/
+allure-report/
